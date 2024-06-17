@@ -1,0 +1,29 @@
+Sobre a empresa:
+
+A John Deere é uma empresa americana de fabricação de equipamentos agrícolas, florestais e de construção. Fundada em 1837 por John Deere em Grand Detour, Illinois, a empresa começou produzindo arados de aço, e desde então se expandiu para se tornar uma das maiores fabricantes de equipamentos agrícolas do mundo.
+
+Os produtos da John Deere incluem tratores, colheitadeiras, plantadeiras, pulverizadores, implementos agrícolas e outros equipamentos para agricultura e construção. A empresa também oferece soluções de tecnologia, como sistemas de orientação por GPS e software de gestão agrícola, que ajudam a aumentar a eficiência e produtividade dos agricultores.
+
+Com sede em Moline, Illinois, a John Deere tem mais de 70.000 funcionários em todo o mundo e opera em mais de 30 países. A empresa tem um forte compromisso com a sustentabilidade, e tem investido em tecnologias que reduzem o consumo de energia e emissões de poluentes em seus equipamentos, bem como promove práticas agrícolas sustentáveis.
+
+Ao longo dos anos, a John Deere tem sido reconhecida por sua inovação e qualidade, e é amplamente considerada como uma das principais fabricantes de equipamentos agrícolas do mundo.
+
+Sobre o Challenge Sprint (Parte 1):
+01) Realizar uma pesquisa e mapear as variáveis que:
+a) Impactam nas pré-vendas de equipamentos agrícolas (pelo menos 7 variáveis, com no mínimo 100 dados cada).
+b) Impactam no pós-venda de equipamentos agrícolas (pelo menos 7 variáveis, com no mínimo 100 dados cada).
+c) Montar a base de dados em Excel e/ou no RStudio.
+
+02) Realizar uma Análise Bivariada:
+a) Montar um Gráfico de Dispersão no RStudio entre todas as variáveis do item 01) a).
+b) Montar um Gráfico de Dispersão no RStudio entre todas as variáveis do item 01) b).
+c) Aplicar a Correlação Linear de Pearson no RStudio entre todas as variáveis do item 01) a).
+d) Aplicar a Correlação Linear de Pearson no RStudio entre todas as variáveis do item 01) b).
+e) Interpretar todos os resultados, destacando os principais insights.  
+
+03) Realizar uma análise de Séries Temporais:
+a) Montar o gráfico de Tendência, Sazonalidade e Ruido Branco (fator aleatório) no RStudio para cada variável do item 01) a).
+b) Montar o gráfico de Tendência, Sazonalidade e Ruido Branco (fator aleatório) no RStudio para cada variável do item 01) b).
+c) Interpretar todos os resultados, destacando os principais insights. 
+
+04) Postar o arquivo, no formato R, no portal, tendo na 1ª linha o nome completo dos integrantes do grupo utilizando o # e nas linhas posteriores todas as resoluções dos exercícios 01) ao 03).

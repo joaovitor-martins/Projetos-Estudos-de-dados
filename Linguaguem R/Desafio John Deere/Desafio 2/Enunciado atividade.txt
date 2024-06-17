@@ -1,0 +1,11 @@
+Sobre o Challenge Sprint (Parte 2):
+
+01) Com base nos estudos realizados na Parte 1, desenvolver uma análise exploratória dos dados contendo as Medidas de Tendência Central, Medidas de Dispersão, Medidas Separatrizes e, pelo menos 1 gráfico para:
+
+a) 02 variáveis de pré-vendas de equipamentos agrícolas.
+
+b) 02 variáveis de pós-venda de equipamentos agrícolas.
+
+c) Elaborar um relatório estatístico, no próprio R, interpretando os resultados obtidos.
+
+02) Postar o arquivo, no formato R, no portal, tendo na 1ª linha o nome completo dos integrantes do grupo utilizando o # e nas linhas posteriores todas as resoluções do exercício 01).

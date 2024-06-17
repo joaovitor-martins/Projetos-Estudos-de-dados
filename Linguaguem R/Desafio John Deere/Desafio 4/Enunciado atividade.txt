@@ -1,0 +1,20 @@
+Sobre o Challenge Sprint (Parte 4):
+
+Utilizando a base de dados que foi montada em Excel e/ou RStudio no Challenge Sprint 1, façam o que se pede nas próximas questões:01) (5,0 pontos) Faça uma Análise Bivariada entre 02 variáveis quantitativas contendo:
+a) O Gráfico de Dispersão, com título e nomes nos eixos x e y.
+b) A Covariância e a Correlação Linear de Pearson, e interprete os resultados.
+c) O Gráfico de Correlação Linear de Pearson.
+d) Os pré-requisitos da Regressão Linear Simples.
+e) A reta da Regressão Linear Simples (no Gráfico de Dispersão), e a Equação da Regressão Linear Simples.
+f) O Coeficiente de Determinação (R²), e interprete o resultado.
+g) Faça uma previsão.
+
+02) (5,0 pontos) Faça uma Análise Multivariada entre, pelo menos, 03 variáveis quantitativas contendo:
+a) A Matriz de Covariância e a Matriz de Correlação Linear de Pearson, e interprete os resultados.
+b) O Gráfico de Correlação Linear de Pearson.
+c) Os pré-requisitos da Regressão Linear Múltipla.
+d) A Equação da Regressão Linear Múltipla.
+e) O Coeficiente de Determinação Múltiplo (R²), e interprete o resultado.
+f) Faça uma previsão utilizando, pelo menos, 02 variáveis explicativas.
+
+03) Postar o arquivo, no formato R, no portal, tendo na 1ª linha o nome completo dos integrantes do grupo utilizando o # e nas linhas posteriores todas as resoluções dos exercícios 01) ao 02).

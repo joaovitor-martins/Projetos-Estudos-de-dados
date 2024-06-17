@@ -1,0 +1,17 @@
+Sobre o Challenge Sprint (Parte 3):
+
+Utilizando a base de dados que foi montada em Excel e/ou RStudio no Challenge Sprint 1, façam o que se pede nas próximas questões:
+
+01) (3,0 pontos) Assumindo que as variáveis numéricas escolhidas seguem uma Distribuição Normal de Probabilidade, escolher 3 variáveis aleatórias da base de dados e determinar, para cada uma:
+a) A probabilidade desta variável ser menor do que a média dos registros da variável. Na sequência classifique o evento quanto ao resultado probabilístico.
+b) A probabilidade desta variável ser maior que a mediana dos registros da variável. Na sequência classifique o evento quanto ao resultado probabilístico.
+c) A probabilidade desta variável estar entre a média menos duas vezes o desvio padrão, e a média mais duas vezes o desvio padrão. Na sequência classifique o evento quanto ao resultado probabilístico. 
+
+02) (2,0 pontos) Com base nos resultados do exercício 01), faça um texto com pelo menos 10 linhas, no R, utilizando #, explicando como os resultados probabilísticos podem auxiliar a tomada de decisão. 
+
+03) (3,0 pontos) Assumindo que as variáveis numéricas escolhidas seguem uma Distribuição Normal de Probabilidade, escolher 3 variáveis aleatórias da base de dados e realizar, para cada uma delas, um teste de hipótese para a média utilizando como dados do problema:
+a) A média amostral é menor do que a média populacional de referência, a um nível de significância de 5%, amostra de tamanho 20 e desvio padrão de referência igual ao desvio padrão populacional dos dados. 
+b) A média amostral é maior do que a média populacional de referência, a um nível de significância de 10%, amostra de tamanho 25 e desvio padrão de referência igual ao desvio padrão populacional dos dados.
+c) A média amostral é diferente do que a média populacional de referência, a um nível de significância de 1%, amostra de tamanho 15 e desvio padrão de referência igual ao desvio padrão populacional dos dados.04) (2,0 pontos) Com base nos resultados do exercício 03), faça um texto com pelo menos 10 linhas, no R, utilizando #, explicando como os resultados do teste de hipótese para a média podem auxiliar a tomada de decisão.
+
+05) Postar o arquivo, no formato R, no portal, tendo na 1ª linha o nome completo dos integrantes do grupo utilizando o # e nas linhas posteriores todas as resoluções dos exercícios 01) ao 04).
