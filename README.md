@@ -1,1 +1,2 @@
-# Projetos-Estudos-de-dados
+# Projetos para Estudo e Aprendizado na área de Dados e Inteligência Artificial
+Bem-vindo ao meu repositório de projetos de estudo e aprendizado na área de Dados e Inteligência Artificial! Neste espaço, você encontrará uma coleção de projetos práticos e recursos relacionados à ciência de dados e IA, todos desenvolvidos com o objetivo de aprimorar e testar as minhas habilidades e conhecimentos nessas áreas.
